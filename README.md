@@ -2,7 +2,7 @@
 
 I'm Francesco, 25 years old guy from Martina Franca (TA), small sized town from southern of Italy. </br>
 Pragmatic, sincere, and ambitious are three adjectives that best describe me. </br>
-I am passionate about computer science :computer:, artificial intelligence :robot: and fitness :weight_lifting_man:. </br></br></br>
+I am passionate about computer science :computer:, machine learning :robot: and fitness :weight_lifting_man:. </br></br>
 
 I have a bachelor's degree in computer science, and a master's degree in artificial intelligence. </br>
 In recent years I have deepened my knowledge of the most modern machine learning and neural networks approaches thanks to a highly quantitative education and experiences in major companies such as Intesa Sanpaolo and Deloitte. </br>
