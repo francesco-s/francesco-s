@@ -3,7 +3,7 @@
 I'm Francesco, 25 years old guy from Martina Franca (TA), small sized town from southern of Italy. </br>
 Pragmatic, sincere, and ambitious are three adjectives that best describe me. </br>
 I am passionate about computer science :computer:, machine learning :robot: and fitness :weight_lifting_man:. </br></br>
-Right now I'm working in a well-known consultancy company as a **Machine Learning Engineer**.
+Right now I'm working in a IT consultancy company as a **Machine Learning Engineer**.
 <!--
 **francesco-s/francesco-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
