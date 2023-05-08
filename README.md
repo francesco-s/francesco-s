@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/francesco.sannicola97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-sannicola-b97799199) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/francesco_sannicola) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -66,13 +66,13 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=francesco-s&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=francesco-s&limit=5&theme=flat&combine_all_yearly_contributions=true)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=francesco-s&icon=1&color=12)](https://github.com/francesco-s)
