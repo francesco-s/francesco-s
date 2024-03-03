@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Francesco, 26 years old guy from Martina Franca (TA), small sized town from southern of Italy. </br>
-Pragmatic, sincere, and ambitious are three adjectives that best describe me. </br>
+I'm Francesco, a 26-year-old man from southern Italy. </br>
 I am passionate about computer science :computer:, machine learning :robot: and fitness :weight_lifting_man:. </br></br>
 Right now I'm working in a IT consultancy company as a **Machine Learning Engineer**.
 <!--
