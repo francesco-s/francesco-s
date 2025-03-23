@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm Francesco, a 27-year-old man from southern Italy. </br>
-I am passionate about computer science 💻, machine learning 🤖, fitness 🏋️‍♂️, and DJing 🎧.
+I'm Francesco, a 27-year-old man from southern Italy 🇮🇹 with a passion for computer science 💻, machine learning 🤖, fitness 🏋️‍♂️, and DJing 🎧.
 
-## Connect With Me
-- 🌐 [Portfolio](https://francescosannicola.it)
-- 📫 [Email](mailto:francescosannicola1997@gmail.com)
-- 👔 [LinkedIn](https://www.linkedin.com/in/francesco-sannicola)
+**Connect with me:**
+* 🌐 **Portfolio:** [francescosannicola.it](https://francescosannicola.it)
+* 📫 **Email:** [francescosannicola1997@gmail.com](mailto:francescosannicola1997@gmail.com)
+* 👔 **LinkedIn:** [linkedin.com/in/francesco-sannicola](https://www.linkedin.com/in/francesco-sannicola)
 
 Right now I'm working in a IT consultancy company as a **Machine Learning Engineer**.
 
