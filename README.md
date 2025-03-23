@@ -3,6 +3,9 @@
 I'm Francesco, a 27-year-old man from southern Italy. </br>
 I am passionate about computer science 💻, machine learning 🤖, fitness 🏋️‍♂️, and DJing 🎧.
 
+For more about my projects, insights, and journey, visit my website:
+francescosannicola.it
+
 Right now I'm working in a IT consultancy company as a **Machine Learning Engineer**.
 <!--
 **francesco-s/francesco-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
