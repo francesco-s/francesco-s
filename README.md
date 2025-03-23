@@ -4,9 +4,9 @@ I'm Francesco, a 27-year-old man from southern Italy. </br>
 I am passionate about computer science 💻, machine learning 🤖, fitness 🏋️‍♂️, and DJing 🎧.
 
 ## Connect With Me
-- [🌐 Portfolio](https://francescosannicola.it)
-- [📫 Email](mailto:francescosannicola1997@gmail.com)
-- [👔 LinkedIn](https://www.linkedin.com/in/francesco-sannicola)
+- 🌐 [Portfolio](https://francescosannicola.it)
+- 📫 [Email](mailto:francescosannicola1997@gmail.com)
+- 👔 [LinkedIn](https://www.linkedin.com/in/francesco-sannicola)
 
 Right now I'm working in a IT consultancy company as a **Machine Learning Engineer**.
 
@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/francesco.sannicola97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-sannicola-b97799199) 
 
 ## 💻 Core Tech Stack:
 #### Languages
