@@ -14,8 +14,11 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescosannicola1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-sannicola)
 
-<details>
-<summary><h2>Tech Stack</h2></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,13 +58,16 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><h2>GitHub Analytics</h2></summary>
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
@@ -69,7 +75,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=default&hide_border=true"/>
 </div>
 
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
