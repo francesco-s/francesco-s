@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=francesco-s&limit=5&theme=flat&combine_all_yearly_contributions=true)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=francesco-s&icon=1&color=12)](https://github.com/francesco-s)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=francesco-s)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
