@@ -10,7 +10,7 @@
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 - 🌱 Always learning — curious about new tech, tools, and best practices
 
-## 📬 Let's Connect
+## Let's Connect
 - 🌐 <a href="https://francescosannicola.com" target="_blank">Portfolio</a>  
 - 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>  
 - 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
