@@ -10,10 +10,10 @@
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 - 🌱 Always learning — curious about new tech, tools, and best practices
 
-## Let's Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://francescosannicola.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescosannicola1997@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-sannicola)
+## 📬 Let's Connect
+- 🌐 <a href="https://francescosannicola.com" target="_blank">Portfolio</a>  
+- 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>  
+- 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
 ## Tech Stack
 
