@@ -3,11 +3,12 @@
 **Machine Learning Engineer** from southern Italy 🇮🇹 passionate about building intelligent systems and exploring the intersection of technology and creativity.
 
 ## About Me
-- 💼 Currently working as a **Machine Learning Engineer** at an IT consultancy company
-- 🤖 Specialized in machine learning and data science solutions
-- 🏋️‍♂️ Fitness enthusiast who believes in a healthy body and mind
-- 🎧 DJ in my spare time, mixing beats and exploring music
-- 🌱 Always learning and staying up-to-date with the latest tech trends
+- 💼 Currently working as a Machine Learning Engineer at an IT consultancy
+- 🤖 Focused on machine learning and data science solutions
+- 💻 Passionate about clean code, scalability, and efficiency
+- 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
+- 🎧 DJ in my free time — love mixing beats and exploring sound
+- 🌱 Always learning — curious about new tech, tools, and best practices
 
 ## Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://francescosannicola.com)
