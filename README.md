@@ -2,19 +2,19 @@
 
 **Machine Learning Engineer** from southern Italy 🇮🇹 passionate about building intelligent systems and exploring the intersection of technology and creativity.
 
-## 🚀 About Me
+## About Me
 - 💼 Currently working as a **Machine Learning Engineer** at an IT consultancy company
 - 🤖 Specialized in machine learning and data science solutions
 - 🏋️‍♂️ Fitness enthusiast who believes in a healthy body and mind
 - 🎧 DJ in my spare time, mixing beats and exploring music
 - 🌱 Always learning and staying up-to-date with the latest tech trends
 
-## 📫 Let's Connect
+## Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://francescosannicola.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescosannicola1997@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-sannicola)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,7 +54,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
