@@ -11,7 +11,7 @@
 - 🌱 Always learning — curious about new tech, tools, and best practices
 
 ## Let's Connect
-- 🌐 <a href="https://francescosannicola.com" target="_blank">Portfolio</a>  
+- 🌐 <a href="https://francescosannicola.com" target="_blank">Personal Website</a>  
 - 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>  
 - 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
