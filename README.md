@@ -4,26 +4,45 @@
 
 ## About Me
 
-<table style="border: none; background: transparent; border-collapse: collapse;">
-<tr style="border: none; background: transparent;">
-<td style="border: none; background: transparent; vertical-align: top;">
-
-**Professional**
-
-- 💼 Currently working as a Machine Learning Engineer
-- 🤖 Focused on machine learning and software development solutions
-- 💻 Passionate about clean code, scalability, and efficiency
-</td>
-<td style="border: none; background: transparent; vertical-align: top;">
-
-**Personal**
-
-- 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
-- 🎧 DJ in my free time — love mixing beats and exploring sound
-- 🌱 Always learning — curious about new tech, tools, and best practices
-</td>
-</tr>
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif;">
+  <tr>
+    <td style="vertical-align:top; padding:16px;">
+      <h3 style="margin:0 0 12px; color:#2c3e50; font-size:1.2em;">Professional</h3>
+      <ul style="list-style:none; padding:0; margin:0; color:#34495e; line-height:1.5;">
+        <li style="margin-bottom:8px;">
+          💼 <strong>Machine Learning Engineer</strong><br>
+          Designing and deploying ML models at scale
+        </li>
+        <li style="margin-bottom:8px;">
+          🤖 <strong>Solution Architect</strong><br>
+          Crafting intelligent software driven by data
+        </li>
+        <li>
+          💻 <strong>Clean Code Advocate</strong><br>
+          Ensuring scalability, performance, and maintainability
+        </li>
+      </ul>
+    </td>
+    <td style="vertical-align:top; padding:16px;">
+      <h3 style="margin:0 0 12px; color:#2c3e50; font-size:1.2em;">Personal</h3>
+      <ul style="list-style:none; padding:0; margin:0; color:#34495e; line-height:1.5;">
+        <li style="margin-bottom:8px;">
+          🏋️‍♂️ <strong>Fitness Enthusiast</strong><br>
+          A balanced body fuels a sharp mind
+        </li>
+        <li style="margin-bottom:8px;">
+          🎧 <strong>DIY DJ</strong><br>
+          Mixing beats to create immersive experiences
+        </li>
+        <li>
+          🌱 <strong>Lifelong Learner</strong><br>
+          Always exploring new tech, tools & best practices
+        </li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 ## Let's Connect
 - 🌐 <a href="https://francescosannicola.com" target="_blank">Personal Website</a>  
