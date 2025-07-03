@@ -3,30 +3,26 @@
 **Machine Learning Engineer** from southern Italy 🇮🇹 driven by a passion for building intelligent, efficient systems.
 
 ## About Me
+
+<table style="border: none; background: transparent;">
+<tr style="border: none; background: transparent;">
+<td style="border: none; background: transparent; vertical-align: top; padding-right: 20px;">
+
+**Professional**
 - 💼 Currently working as a Machine Learning Engineer
-- 🤖 Focused on machine learning and data science solutions
+- 🤖 Focused on machine learning and software development solutions
 - 💻 Passionate about clean code, scalability, and efficiency
+
+</td>
+<td style="border: none; background: transparent; vertical-align: top;">
+
+**Personal**
 - 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 - 🌱 Always learning — curious about new tech, tools, and best practices
 
-<table>
-  <tr>
-    <td valign="top">
-
-<b>Machine Learning Engineer</b> from southern Italy 🇮🇹  
-Driven by a passion for building intelligent, efficient systems.  
-I love clean design and smart optimizations.  
-
 </td>
-    <td valign="top">
-
-Exploring the creative edge of technology is where I thrive.  
-I enjoy crafting solutions that are both elegant and effective.  
-Blending innovation with practicality keeps me inspired.  
-
-</td>
-  </tr>
+</tr>
 </table>
 
 ## Let's Connect
