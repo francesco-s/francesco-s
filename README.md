@@ -4,9 +4,9 @@
 
 ## About Me
 
-<table style="border: none; background: transparent;">
+<table style="border: none; background: transparent; border-collapse: collapse;">
 <tr style="border: none; background: transparent;">
-<td style="border: none; background: transparent; vertical-align: top; padding-right: 20px;">
+<td style="border: none; background: transparent; vertical-align: top; padding-right: 20px; padding-left: 0;">
 
 **Professional**
 - 💼 Currently working as a Machine Learning Engineer
