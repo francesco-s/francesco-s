@@ -4,11 +4,9 @@
 
 ## About Me
 
-## About Me
-
 | Professional | Personal |
 |--------------|----------|
-| 💼 Currently working as a Machine Learning Engineer | 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind |
+| 💼 Currently working as a <strong>Machine Learning Engineer</strong> | 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind |
 | 🤖 Focused on machine learning and software development solutions | 🎧 DJ in my free time — love mixing beats and exploring sound |
 | 💻 Passionate about clean code, scalability, and efficiency | 🌱 Always learning — curious about new tech, tools, and best practices |
 
