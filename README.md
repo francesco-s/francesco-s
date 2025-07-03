@@ -22,6 +22,7 @@
         </li>
       </ul>
     </td>
+    <br>
     <td style="width:50%; vertical-align: top; padding: 16px 16px 40px;">
       <h3 style="margin: 0 0 12px; color: #2c3e50; font-size: 1.2em; border-bottom: 2px solid #ecf0f1; padding-bottom: 4px;">
         Personal
