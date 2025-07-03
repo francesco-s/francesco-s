@@ -3,12 +3,12 @@
 **Machine Learning Engineer** from southern Italy 🇮🇹 driven by a passion for building intelligent, efficient systems.
 
 ## About Me
-
-| Professional | Personal |
-|--------------|----------|
-| 💼 Currently working as a <strong>Machine Learning Engineer</strong> | 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind |
-| 🤖 Focused on machine learning and software development solutions | 🎧 DJ in my free time — love mixing beats and exploring sound |
-| 💻 Passionate about clean code, scalability, and efficiency | 🌱 Always learning — curious about new tech, and tools |
+- 💼 Currently working as a <strong>Machine Learning Engineer</strong>
+- 🤖 Focused on machine learning and software development solutions
+- 💻 Passionate about clean code, scalability, and efficiency
+- 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
+- 🎧 DJ in my free time — love mixing beats and exploring sound
+- 🌱 Always learning — curious about new tech, tools, and best practices
 
 
 ## Let's Connect
