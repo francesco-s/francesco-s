@@ -8,12 +8,14 @@
 <tr style="border: none; background: transparent;">
 <td style="border: none; background: transparent; vertical-align: top; padding-right: 20px; padding-left: 0;">
 **Professional**
+
 - 💼 Currently working as a Machine Learning Engineer
 - 🤖 Focused on machine learning and software development solutions
 - 💻 Passionate about clean code, scalability, and efficiency
 </td>
 <td style="border: none; background: transparent; vertical-align: top;">
 **Personal**
+
 - 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 - 🌱 Always learning — curious about new tech, tools, and best practices
