@@ -1,15 +1,13 @@
 # Hi there, I'm Francesco!
 
-**Machine Learning Engineer** from southern Italy 🇮🇹 driven by a passion for building intelligent, efficient systems.
+**Machine Learning Engineer** from southern Italy 🇮🇹 driven by a passion for building efficient systems.
 
 ## About Me
 - 💼 Currently working as a <strong>Machine Learning Engineer</strong>
 - 🤖 Focused on machine learning and software development solutions
-- 💻 Passionate about clean code, scalability, and efficiency
+- 💻 Committed to clean code and scalable system design
 - 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
 - 🎧 DJ in my free time — love mixing beats and exploring sound
-- 🌱 Always learning — curious about new tech, tools, and best practices
-
 
 ## Let's Connect
 - 🌐 <a href="https://francescosannicola.com" target="_blank">Personal Website</a>  
