@@ -14,7 +14,8 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 - 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>  
 - 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
-## Tech Stack
+<details>
+<summary>🛠️ Tech Stack</summary>
 
 **Languages:**
 
@@ -40,7 +41,10 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-48B9C7?style=for-the-badge&logo=qlik&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-## GitHub Analytics
+</details>
+
+<details>
+<summary>📊 GitHub Analytics</summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
@@ -50,6 +54,8 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=default&hide_border=true"/>
 </div>
+
+</details>
 
 ---
 
