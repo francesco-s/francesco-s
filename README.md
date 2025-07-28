@@ -53,10 +53,9 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=default&hide_border=true"/>
 </div>
 
-</details>
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
 </div>
+</details>
