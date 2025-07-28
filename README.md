@@ -1,6 +1,6 @@
 # Hi there, I'm Francesco!
 
-**Machine Learning Engineer** from southern Italy 🇮🇹 driven by a passion for building efficient systems.
+ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on learning new tech, understanding systems at their core, and creating solutions that actually matter.
 
 ## About Me
 - 💼 Currently working as a <strong>Machine Learning Engineer</strong>
