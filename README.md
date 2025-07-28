@@ -15,7 +15,7 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 - 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
 <details>
-<summary>## 🛠️ Tech Stack</summary>
+## <summary>🛠️ Tech Stack</summary>
 
 **Languages:**
 
