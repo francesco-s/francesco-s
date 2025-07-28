@@ -15,7 +15,7 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 - 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
 <details>
-## <summary>🛠️ Tech Stack</summary>
+<summary><h2>🛠️ Tech Stack</h2></summary>
 
 **Languages:**
 
@@ -44,7 +44,7 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 </details>
 
 <details>
-<summary>📊 GitHub Analytics</summary>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
