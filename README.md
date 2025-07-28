@@ -42,7 +42,6 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-48B9C7?style=for-the-badge&logo=qlik&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 </details>
-
 <details>
 <summary><h2>📊 GitHub Analytics</h2></summary>
 
