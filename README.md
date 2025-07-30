@@ -12,7 +12,6 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 - 💻 Committed to clean code and scalable system design
 - 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
 - 🎧 DJ in my free time — love mixing beats and exploring sound
-
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
 
@@ -41,9 +40,8 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-48B9C7?style=for-the-badge&logo=qlik&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 </details>
-
 <details>
-<summary><h2>📊 GitHub Analytics</h2></summary>
+<summary><h3>📊 GitHub Analytics</h3></summary>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
