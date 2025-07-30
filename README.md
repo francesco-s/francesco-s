@@ -10,9 +10,9 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 
 ## Let's Connect  
-<span style="display: inline-block; margin-right: 20px;">🌐 <a href="https://francescosannicola.com" target="_blank">Personal Website</a></span>
-<span style="display: inline-block; margin-right: 20px;">📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a></span>
-<span style="display: inline-block;">💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a></span>
+🌐 <a href="https://francescosannicola.com" target="_blank">Personal Website</a> | 
+📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a> | 
+💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
 
 <details>
