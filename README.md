@@ -1,18 +1,29 @@
+<table>
+<tr>
+<td>
+
 # Hi there, I'm Francesco!
 
 ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on learning new tech, understanding systems at their core, and creating solutions that actually matter.
 
 ## About Me
-- 💼 Currently working as a <strong>Machine Learning Engineer</strong>
+- 💼 Currently working as a **Machine Learning Engineer**
 - 🤖 Focused on machine learning and software development solutions
 - 💻 Committed to clean code and scalable system design
 - 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 
+</td>
+<td align="right">
+
 ## Let's Connect  
-🌐 <a href="https://francescosannicola.com" target="_blank">Personal Website</a> | 
-📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a> | 
-💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
+🌐 [Website](https://francescosannicola.com)  |   
+📧 [Email](mailto:francescosannicola1997@gmail.com)  |   
+💼 [LinkedIn](https://www.linkedin.com/in/francesco-sannicola)
+
+</td>
+</tr>
+</table>
 
 
 <details>
