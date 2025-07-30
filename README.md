@@ -14,7 +14,7 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 - 🎧 DJ in my free time — love mixing beats and exploring sound
 
 <details>
-<summary><h2>🛠️ Tech Stack</h2></summary>
+<summary><h3>🛠️ Tech Stack</h3></summary>
 
 **Languages:**
 
@@ -44,13 +44,16 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 
 <details>
 <summary><h2>📊 GitHub Analytics</h2></summary>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -58,4 +61,6 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
 </div>
+
 </details>
+
