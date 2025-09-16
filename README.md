@@ -7,7 +7,6 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a>
 
 ## About Me
-- 💼 Currently working as a <strong>Machine Learning Engineer</strong>
 - 🤖 Focused on machine learning and software development solutions
 - 💻 Committed to clean code and scalable system design
 - 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
