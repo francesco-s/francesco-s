@@ -9,8 +9,8 @@ ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on lea
 ## About Me
 - 🤖 Focused on machine learning and software development solutions
 - 💻 Committed to clean code and scalable system design
-- 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
-- 🎧 DJ in my free time — love mixing beats and exploring sound
+- 🏋️‍♂️ Lifting heavy | 🎧 mixing beats | 📈 optimizing life.
+
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
 
