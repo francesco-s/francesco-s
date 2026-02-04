@@ -1,6 +1,8 @@
 # Hi there, I'm Francesco!
 
-ML Engineer from Italy. I thrive on learning new tech, understanding systems at their core, and creating solutions that actually matter.
+ML Engineer from Italy 🇮🇹. I thrive on learning new tech, understanding systems at their core, and building stuff that actually makes a difference.
+
+I like tech, weights (both gym and neural network ones), and house music.
 
 🌐 <a href="https://francescosannicola.com" target="_blank">Website</a> | 
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> | 
