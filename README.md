@@ -1,15 +1,10 @@
 # Hi there, I'm Francesco!
 
-ML Engineer from Italy 🇮🇹 on a mission to master my craft. I thrive on learning new tech, understanding systems at their core, and creating solutions that actually matter.
+ML Engineer from Italy. I thrive on learning new tech, understanding systems at their core, and creating solutions that actually matter.
 
 🌐 <a href="https://francescosannicola.com" target="_blank">Website</a> | 
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> | 
 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>
-
-## About Me
-- 🤖 Focused on machine learning and software development solutions
-- 💻 Committed to clean code and scalable system design
-- 🏋️‍♂️ Lifting heavy | 🎧 mixing beats | 📈 optimizing life.
 
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
