@@ -1,12 +1,8 @@
 # Hi there, I'm Francesco!
 
-Here’s the same transformation applied to your sentence, following the **same visual logic** as the example (past companies struck through, current one active and linked):
-
-ML Engineer from Italy 🇮🇹 at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/)
-
-I thrive on learning new tech, understanding systems at their core, and building stuff that actually makes a difference.
-
-I like tech, weights (both gym and neural network ones), and house music.
+* ML Engineer from Italy 🇮🇹 at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/).
+* I thrive on learning new tech, understanding systems at their core, and building stuff that actually makes a difference.
+* I like tech, weights (both gym and neural network ones), and house music.
 
 🌐 <a href="https://francescosannicola.com" target="_blank">Website</a> | 
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> | 
