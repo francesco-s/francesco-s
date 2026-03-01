@@ -4,9 +4,9 @@
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> · 
 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>
 
-* 👨‍💻 ML Engineer at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/).
-* 🎓 BSc in Computer Science, MSc in Artificial Intelligence.
-* 🔬 Focus on fundamentals, scalability, and real-world impact.
+* ML Engineer at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/).
+* BSc in Computer Science, MSc in Artificial Intelligence.
+* Focus on fundamentals, scalability, and real-world impact.
 
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
