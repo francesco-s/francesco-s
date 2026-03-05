@@ -1,5 +1,9 @@
 # Hi there, I'm Francesco!
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
+</div>
+
 🌐 <a href="https://francescosannicola.com" target="_blank">Website</a> · 
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> · 
 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>
@@ -50,12 +54,4 @@
 
 <br/>
 </details>-->
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
-
 
