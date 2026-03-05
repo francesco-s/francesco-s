@@ -8,6 +8,10 @@
 * 🎓 BSc in Computer Science, MSc in Artificial Intelligence.
 * 🔬 Focus on fundamentals, scalability, and real-world impact.
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
+</div>
+
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
 
@@ -37,21 +41,17 @@
 
 </details>
 <details>
-<summary><h3>📊 GitHub Analytics</h3></summary>
+<!--<summary><h3>📊 GitHub Analytics</h3></summary> -->
 
 <!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-<br/>-->
+<br/>
+</details>-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
-</div>
 
-</details>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
