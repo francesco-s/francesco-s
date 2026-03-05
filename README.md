@@ -8,7 +8,7 @@
 * 🎓 BSc in Computer Science, MSc in Artificial Intelligence.
 * 🔬 Focus on fundamentals, scalability, and real-world impact.
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -40,8 +40,8 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-48B9C7?style=for-the-badge&logo=qlik&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 </details>
-<details>
-<!--<summary><h3>📊 GitHub Analytics</h3></summary> -->
+<!--<details>
+<summary><h3>📊 GitHub Analytics</h3></summary>
 
 <!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
