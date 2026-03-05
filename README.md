@@ -1,14 +1,13 @@
 # Hi there, I'm Francesco!
-
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td>
+      <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
+    </td>
+    <td align="right">
       🌐 <a href="https://francescosannicola.com" target="_blank">Website</a> · 
       💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> · 
       📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
     </td>
   </tr>
 </table>
