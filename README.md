@@ -26,7 +26,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight"/>
 <img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
-[<img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight"/>](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight)
+
 
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
