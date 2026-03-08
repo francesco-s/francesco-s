@@ -12,19 +12,20 @@
 * 🎓 BSc in Computer Science, MSc in Artificial Intelligence.
 * 🔬 Focus on fundamentals, scalability, and real-world impact.
 
-<table width="100%" border="0">
+<!--<table width="100%" border="0">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight"/>
     </td>
-    <!--<td>
+    <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight"/>
-    </td>-->
+    </td>
   </tr>
-</table>
+</table>-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true"/>
 
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
