@@ -16,6 +16,8 @@
   <img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
 </div>
