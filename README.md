@@ -1,9 +1,5 @@
 # Hi there, I'm Francesco!
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
 🌐 <a href="https://francescosannicola.com" target="_blank">Website</a> · 
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> · 
 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>
@@ -11,6 +7,18 @@
 * 👨‍💻 ML Engineer at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/).
 * 🎓 BSc in Computer Science, MSc in Artificial Intelligence.
 * 🔬 Focus on fundamentals, scalability, and real-world impact.
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="195" alt="GitHub Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight" height="195" alt="Top Languages Percentage" />
+  
+  <img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=francesco-s&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 <!--<table width="100%" border="0">
   <tr>
@@ -22,16 +30,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight"/>
     </td>
   </tr>
-</table>-->
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="195" alt="GitHub Stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=francesco-s&theme=tokyonight" height="195" alt="Top Languages Percentage" />
-  
-  <img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-</div>
-
+</table>
 
 <details>
 <summary><h3>🛠️ Tech Stack</h3></summary>
@@ -64,7 +63,7 @@
 <!--<details>
 <summary><h3>📊 GitHub Analytics</h3></summary>
 
-<!--<div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
