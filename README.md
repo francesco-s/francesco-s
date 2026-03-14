@@ -9,7 +9,7 @@
 * 🔬 Focus on fundamentals, scalability, and real-world impact.
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="195" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="165" alt="GitHub Stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=tokyonight&layout=compact&hide=jupyter%20notebook" height="195" alt="Top Languages" />
   
