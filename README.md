@@ -8,12 +8,12 @@
 * 🎓 BSc in Computer Science, MSc in Artificial Intelligence.
 * 🔬 Focus on fundamentals, scalability, and real-world impact.
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=tokyonight&layout=compact&hide=jupyter%20notebook" height="195" alt="Top Languages" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="195" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-s&theme=tokyonight&layout=compact&hide=jupyter%20notebook, CSS" height="195" alt="Top Languages" />
   
   <img src="https://streak-stats.demolab.com/?user=francesco-s&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="195" alt="GitHub Stats" />
 </div>
 
 <br/>
