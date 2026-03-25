@@ -4,9 +4,9 @@
 💼 <a href="https://www.linkedin.com/in/francesco-sannicola" target="_blank">LinkedIn</a> · 
 📧 <a href="mailto:francescosannicola1997@gmail.com" target="_blank">Email</a>
 
-* 👨‍💻 ML Engineer at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/).
-* 🎓 BSc in Computer Science ([UniBa](https://www.uniba.it/en)), MSc in Artificial Intelligence ([UniTo](https://www.unito.it/)).
-* 🔬 Focus on fundamentals, scalability, and real-world impact.
+* ML Engineer at ~~[Intesa Sanpaolo](https://www.intesasanpaolo.com/)~~, ~~[Deloitte](https://www2.deloitte.com/)~~, ~~[Links](https://www.linksmt.it/)~~, [Agile Lab](https://www.agilelab.it/).
+* BSc in Computer Science, MSc in Artificial Intelligence.
+* Focus on fundamentals, simplicity, and real-world impact.
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=francesco-s&theme=tokyonight" height="165" alt="GitHub Stats" />
